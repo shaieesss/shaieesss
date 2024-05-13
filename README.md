@@ -5,5 +5,6 @@ All codes will be published since the corresonding paper is accepted. Before tha
 
 # introduction  
 It is series of repositories storing codes of our work. Welcome to friendly communication and utility.   
-Our research interests include but not limited to computer science, artificial intelligence, data engineering, deep learning, graph neural netwrok, representation learning, contrastive learning, adversarial learning, anomaly detection and so on.  
+Our research interests include but not limited to computer science, artificial intelligence, data engineering, deep learning, graph neural netwrok, representation learning, contrastive learning, adversarial learning, anomaly detection and so on.   
+We also wlecome to researchers in other fields to have friendly communications!
 
