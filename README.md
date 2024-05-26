@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaieesss
 
 # Note  
-All codes will be published since the corresonding paper is accepted. Before that, the codes are temporarily set to be private.  
+All codes will be published since the corresonding paper is accepted. Before that, the codes are temporarily set to be private unless for special demands or requests.
 
 # introduction  
 1.It is series of repositories storing codes of our work. Welcome to friendly communication and utility.   
