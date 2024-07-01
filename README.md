@@ -1,3 +1,4 @@
+<meta name="robots" content="noindex">
 - 👋 Hi, I’m @shaieesss
 
 # Note  
